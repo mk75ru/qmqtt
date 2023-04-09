@@ -6,6 +6,5 @@ Project {
     references: [
         "examples",
         "src",
-        "tests",
     ]
 }
